@@ -11,7 +11,8 @@
 [Выводит на экран некорректный остаток по счету](https://github.com/IgorOstroverkhov/TestCards/issues/1)
 =======
 * [Выводит на экран остаток по счету](https://github.com/IgorOstroverkhov/TestCards/issues/1)
->>>>>>> fa76c42dbbe600a572573d73358146570941e5f9:src/text.md
+https://github.com/IgorOstroverkhov/TestCards/issues/new
+
 
 ## Описание процесса тестирования
 
