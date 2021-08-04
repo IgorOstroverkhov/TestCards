@@ -9,8 +9,6 @@
 В результате тестирования выявлены следующие дефекты:
 
 [Выводит на экран некорректный остаток по счету](https://github.com/IgorOstroverkhov/TestCards/issues/1)
-=======
-* [Выводит на экран остаток по счету](https://github.com/IgorOstroverkhov/TestCards/issues/1)
 
 ## Описание процесса тестирования
 
